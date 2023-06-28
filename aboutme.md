@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
----
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+subtitle: Nothing is impossible
+--
+Hi, I'm Quang
+🎓 I'm currently a senior year student at the University of Science and Technology - The University of Danang, studying Electronics and Telecommunications Engineering majoring in Computer Engineering. I have knowledge and experience in programming, especially in Embedded Software, IoT, AI.
+- It is best to contact me by email. I am always open to interesting conversations and collaborations.
+More contact:
+Email: "vanquang17th@gmail.com"
+Youtube: "https://www.youtube.com/channel/UCHiLRDTAEkRV6hOHRZVztLQ"
+LinkedIn: "https://www.linkedin.com/in/vanquang17th/"
