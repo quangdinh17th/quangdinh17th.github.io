@@ -1,12 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Nothing is impossible
---
-Hi, I'm Quang
-🎓 I'm currently a senior year student at the University of Science and Technology - The University of Danang, studying Electronics and Telecommunications Engineering majoring in Computer Engineering. I have knowledge and experience in programming, especially in Embedded Software, IoT, AI.
-- It is best to contact me by email. I am always open to interesting conversations and collaborations.
+subtitle: Nothing is impossible!
+---
+### Hi, I'm Quang 👋
+<!--
+**quangdinh17th/quangdinh17th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+- 🎓 I'm currently a senior year student at the University of Science and Technology - The University of Danang, studying Electronics and Telecommunications Engineering majoring in Computer Engineering.
+-  I am also studying and working on machine learning and IoT.
+It is best to contact me by [email](vanquang17th@gmail.com). I am always open to interesting conversations and collaborations.
+
+---
 More contact:
-Email: "vanquang17th@gmail.com"
-Youtube: "https://www.youtube.com/channel/UCHiLRDTAEkRV6hOHRZVztLQ"
-LinkedIn: "https://www.linkedin.com/in/vanquang17th/"
+- [Youtube](https://www.youtube.com/channel/UCHiLRDTAEkRV6hOHRZVztLQ)
+- [Facebook](https://www.facebook.com/vanquang17th/)
+- [LinkedIn](https://www.linkedin.com/in/vanquang17th/)
