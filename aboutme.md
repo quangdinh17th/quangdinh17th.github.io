@@ -10,7 +10,7 @@ subtitle: Nothing is impossible!
 - 🎓 I'm currently a senior year student at the University of Science and Technology - The University of Danang, studying Electronics and Telecommunications Engineering majoring in Computer Engineering.
 - ⭐ I am also studying and working on machine learning and IoT.
 
-It is best to contact me by [email](vanquang17th@gmail.com). I am always open to interesting conversations and collaborations.
+- It is best to contact me by [email](vanquang17th@gmail.com). I am always open to interesting conversations and collaborations.
 
 ---
 More contact:
