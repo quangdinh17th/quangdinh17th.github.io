@@ -7,11 +7,12 @@ gh-badge: [star, fork, follow]
 tags: [C++, IoT]
 comments: true
 ---
-** Description **
+# Description
 AUTORACE is a competition for students who are passionate about self-driving cars. The competition offers challenges in designing and building autonomous vehicles, based on electronic components and microprocessors.
 
+In the first round of the group stage, all teams will be paired with each other to use the playing field. The model of the floor in the first round includes obstacles such as: The challenge of running or stopping according to the barrière; Challenging high slope; The challenge of following the line with straight lines, broken lines and folded lines; Pass the tunnel.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](286799056_4632906690144772_7576928383789897664_n.jpg)
 
 It can also be centered!
 
