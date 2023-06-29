@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Restaurant Manager Software
-subtitle:  Designing and programming restaurant management software with features: system login, table reservation management, menu display, payment.
+subtitle: Designing and programming restaurant management software with features: system login, table reservation management, menu display, payment.
 tags: [C++(OOP), Git]
+comments: true
 ---
-
 # Project Title
 Restaurant Manager Software
 
