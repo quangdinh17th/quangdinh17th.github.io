@@ -18,3 +18,5 @@ More contact:
 - [LinkedIn](https://www.linkedin.com/in/vanquang17th/)
 - [Facebook](https://www.facebook.com/vanquang17th/)
 - [Youtube](https://www.youtube.com/channel/UCHiLRDTAEkRV6hOHRZVztLQ)
+- [Article1](http://dut.udn.vn/Tintuc/Tintuc/id/8550)
+- [Article2](https://baodanang.vn/channel/5433/202310/thuc-day-trai-nghiem-learning-express-3957936/index.htm?fbclid=IwAR06qA-62psfx14xXODIdMB11QR_hzsCFdmQgKAnt7X0ZslUp2hfPFgglGE)
