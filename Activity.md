@@ -4,6 +4,7 @@ title: Activity
 subtitle: This is where I will tell my friends way too much about me 
 ---
 ![Crepe](https://github.com/quangdinh17th/quangdinh17th.github.io/blob/master/assets/img/_DSC8205.JPG)
+![Crepe](https://github.com/quangdinh17th/quangdinh17th.github.io/blob/master/assets/img/PXL_20230921_141020181.jpg)
 ### Learning Express [6] September 18-29, 2023
 - [Article 1](http://dut.udn.vn/Tintuc/Tintuc/id/8550)
 - [Article 2](https://baodanang.vn/channel/5433/202310/thuc-day-trai-nghiem-learning-express-3957936/index.htm?fbclid=IwAR06qA-62psfx14xXODIdMB11QR_hzsCFdmQgKAnt7X0ZslUp2hfPFgglGE)
