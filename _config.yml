@@ -21,6 +21,7 @@ author: Quang Dinh
 
 navbar-links:
   About Me: "aboutme"
+  Activity: "Activity"
   Publications: "Publications"
   Resume: "resume"
 #   Resources:
