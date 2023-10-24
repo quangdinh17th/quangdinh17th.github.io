@@ -22,7 +22,7 @@ In the first round of the group stage, all teams will be paired with each other 
 #### Help
 Contact us if you have any problem
 #### Authors
-Contributors names and contact information:
+Contributors names and contact information
 * [Dinh Van Quang](https://www.facebook.com/vanquang17th/) - Email: vanquang17th@gmail.com - Da Nang University of Technology
 * [Nguyen Van Thanh Phong](https://www.facebook.com/profile.php?id=100054579217389) - Email: nguyenvanthanhphong60@gmail.com - Da Nang University of Technology
 * [Hoang Ngoc Loc](https://www.facebook.com/reddevils.1908) - Email: hngloc10@gmail.com - Da Nang University of Technology
