@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Activity
-subtitle: 
+subtitle: This is where I will tell my friends way too much about me 
 ---
 ### LEARNING EXPRESS [6] IN DUT September 18-29, 2023
 - [Article1](http://dut.udn.vn/Tintuc/Tintuc/id/8550)
