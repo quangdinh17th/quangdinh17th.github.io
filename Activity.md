@@ -9,7 +9,7 @@ subtitle: This is where I will tell my friends way too much about me
 - [Article 1](http://dut.udn.vn/Tintuc/Tintuc/id/8550)
 - [Article 2](https://baodanang.vn/channel/5433/202310/thuc-day-trai-nghiem-learning-express-3957936/index.htm?fbclid=IwAR06qA-62psfx14xXODIdMB11QR_hzsCFdmQgKAnt7X0ZslUp2hfPFgglGE)
 
-### The competition to design and race self-driving cars Pioneer Club - Faculty of Electronics Telecommunications University - Da Nang University of Science and Technology
+### The competition to design and race self-driving cars Pioneer Club - Da Nang University of Science and Technology
 - tags: [C++, IoT]
 - comments: true
 #### Description
