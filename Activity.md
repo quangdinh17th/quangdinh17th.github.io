@@ -1,3 +1,8 @@
+---
+layout: Activity
+title: Quang Blog
+subtitle: This is where I will tell my friends way too much about me
+---
 ### LEARNING EXPRESS [6] IN DUT September 18-29, 2023
 - [Article1](http://dut.udn.vn/Tintuc/Tintuc/id/8550)
 - [Article2](https://baodanang.vn/channel/5433/202310/thuc-day-trai-nghiem-learning-express-3957936/index.htm?fbclid=IwAR06qA-62psfx14xXODIdMB11QR_hzsCFdmQgKAnt7X0ZslUp2hfPFgglGE)
