@@ -1,1 +1,6 @@
-[Curriculum Vitae ](https://www.canva.com/design/DAFMgNpLEss/kTAhGD7tAcSUwvZP6RpUzQ/edit)
+---
+layout: page
+title: Resume
+subtitle: Curriculum Vitate
+---
+[Curriculum Vitate](/Dinh Van Quang)
